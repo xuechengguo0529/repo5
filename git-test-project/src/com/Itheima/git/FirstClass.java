@@ -12,5 +12,8 @@ public class FirstClass {
     }
     public static void  mehthod(){
         System.out.println("hah ");
+        System.out.println("hah ");
+        System.out.println("hah ");
+        System.out.println("hah ");
     }
 }
